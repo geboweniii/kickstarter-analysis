@@ -1,7 +1,7 @@
 # An Analysis of Kickstarter Campaigns
 
 ## 1.	Purpose
-Louise, a playwright with an interest in crowdfunding productions, has tasked this analyst with the job of reviewing crowdfunding data for the purpose illustrating how different campaigns fared in relation to their launch dates and funding goals. The goal of this effort is to provide her the insights necessary to plan future crowdfunded projects with the greatest chance for success.
+Louise, a playwright with an interest in crowdfunding theater productions, has tasked this analyst with the job of reviewing crowdfunding data and illustrating how different campaigns fared in relation to their launch dates and funding goals. The goal of this effort is to provide her the insights necessary to plan future crowdfunded projects with the greatest chance for success.
 
 ## 2.	Analysis and Challenges
 This analyst was provided structured crowdsource data in a Microsoft Excel file. The data contains pledged funding and funding goal information for over four thousand productions occurring between 2010 and 2017. Funding outcomes were determined by the success or failure of the producers to acquire enough pledged financing in relation to their funding goal. This data served as the sole source for this analysis.
