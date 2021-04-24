@@ -14,7 +14,7 @@ The first part of the analysis focused on the performance of theater productions
 ![Theater_Outcomes_vs_Launch](https://user-images.githubusercontent.com/82056100/115974683-5f3e6200-a52c-11eb-8d88-88e8be5ba125.png)
 
 ### 4.1	Conclusion #1
-Theater productions appear to see the most success in the months of May and Jun. This is likely due to the weather changes and the onset of the vacation season. Theater-goers appear most ready to enjoy that entertainment most in the early summer months. 
+Theater productions appear to see the most success in the months of May and Jun. This is likely due to changes in weather and the onset of the vacation season. Theater-goers appear most ready to enjoy that form of entertainment in the early summer months. 
 
 ### 4.2	Conclusion #2
 Theater productions launching in December fail almost as often as they succeed. This reflects a busy holiday season for theater goers who appear less interested in productions opening in that time of the year.
