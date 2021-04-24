@@ -11,6 +11,7 @@ The funding data provided required minimal reformatting. Deadline and launch dat
 
 ## 4.	Theater Outcomes by Launch Date
 The first part of the analysis focused on the performance of theater productions over the course of a calendar year. Only theater productions were included and outcomes were plotted based on launch date. The resulting line chart reveals theater productions with May launch dates have the greatest success. Successful results decline throughout the rest of the calendar year. This trend leads to a near equal results between successful and failed productions launching in December.
+![Theater_Outcomes_vs_Launch](https://user-images.githubusercontent.com/82056100/115974683-5f3e6200-a52c-11eb-8d88-88e8be5ba125.png)
 
 ### 4.1	Conclusion #1
 Theater productions appear to see the most success in the months of May and Jun. This is likely due to the weather changes and the onset of the vacation season. Theater-goers appear most ready to enjoy that entertainment most in the early summer months. 
@@ -20,6 +21,7 @@ Theater productions launching in December fail almost as often as they succeed. 
 
 ## 5.	Outcomes Based on Goals
 The second part of the analysis focused on the outcomes of plays based on funding goals of the production. Only data in the play subcategory was included in the results. Data were grouped based on outcome and funding goal. Outcome percentages were calculated in each funding goal range producing the following results.
+![Outcomes_vs_Goals](https://user-images.githubusercontent.com/82056100/115974682-577ebd80-a52c-11eb-8993-989abb63d93e.png)
 
 ### 5.1	Conclusion #1
 The chart reveals that plays with funding goals below $4,999 enjoy the most success. Productions with goals between $35,000 and $44,999 also have a higher percentage of success. However, low cost productions appear to see the greater success rate.
